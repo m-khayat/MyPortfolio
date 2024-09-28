@@ -10,9 +10,9 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Mohamad Khayat </span>
             from <span className="purple"> Damascus, Syria.</span>
-            <br />
-            I am a 5th-year IT engineering student with a passion for frontend
-            development, particularly in React.
+            <br />I am a 5th-year IT engineering student at{" "}
+            <span className="purple">Damascus University </span> with a passion
+            for frontend development, particularly in React.
             <br />
             While I don't have professional work experience yet, I have spent
             significant time honing my skills through academic projects and
